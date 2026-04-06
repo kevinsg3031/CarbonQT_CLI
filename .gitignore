@@ -1,0 +1,18 @@
+# Binaries and build artifacts
+/bin/
+/dist/
+*.exe
+*.out
+*.test
+*.prof
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

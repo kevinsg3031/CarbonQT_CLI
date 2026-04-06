@@ -1,0 +1,167 @@
+pid,name,cpu_percent,mem_percent,power_w,carbon_kg,carbon_mg,runtime,exe_path
+31920,60eaff78-4bdd-042d-2e72-669728efd737-suplib-3rdchild,137.61,7.27,89.45,0.00000018,0.179,3h44m,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+27456,OneDrive.exe,70.27,2.89,45.67,0.00000009,0.091,4h47m,C:\Program Files\Microsoft OneDrive\OneDrive.exe
+22568,docker.exe,46.90,0.12,30.48,0.00000006,0.061,7s,C:\Program Files\Docker\Docker\resources\bin\docker.exe
+16944,comet.exe,16.92,11.70,11.00,0.00000002,0.022,2h38m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+17684,Explorer.EXE,14.27,1.90,9.28,0.00000002,0.019,4h49m,C:\Windows\explorer.exe
+18464,Code.exe,10.21,2.33,6.63,0.00000001,0.013,1h26m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+18696,comet.exe,7.76,1.20,5.05,0.00000001,0.010,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+22476,Spotify.exe,4.68,0.95,3.04,0.00000001,0.0061,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+30884,Code.exe,4.33,2.30,2.81,0.00000001,0.0056,1h26m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+824,Spotify.exe,4.24,1.50,2.75,0.00000001,0.0055,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+3992,comet.exe,4.10,1.21,2.66,0.00000001,0.0053,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+6556,comet.exe,3.20,0.58,2.08,0.00000000,0.0042,47s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+17276,audiodg.exe,3.15,0.65,2.05,0.00000000,0.0041,4h31m,C:\Windows\System32\audiodg.exe
+8892,msedgewebview2.exe,2.73,0.14,1.77,0.00000000,0.0035,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+11016,carbonqt,2.67,0.09,1.74,0.00000000,0.0035,10s,C:\Users\KSHAMA JAYCHAND\OneDrive\Desktop\CarbonQT-CLI\carbonqt.exe
+27688,msedgewebview2.exe,2.47,0.33,1.61,0.00000000,0.0032,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+1368,Code.exe,2.34,0.73,1.52,0.00000000,0.0030,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+3832,comet.exe,2.27,0.45,1.47,0.00000000,0.0029,4h22m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+9052,node.exe,2.11,0.26,1.37,0.00000000,0.0027,4h19m,C:\Program Files\nodejs\node.exe
+35836,Code.exe,2.11,0.94,1.37,0.00000000,0.0027,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+29900,comet.exe,1.89,0.52,1.23,0.00000000,0.0025,47s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+13604,Code.exe,1.82,0.44,1.18,0.00000000,0.0024,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+31708,Code.exe,1.43,1.18,0.93,0.00000000,0.0019,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+18976,comet.exe,1.19,0.76,0.77,0.00000000,0.0015,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+28876,ipf_helper.exe,0.83,0.02,0.54,0.00000000,0.0011,4h49m,C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_c493e10bcfd25250\ipf_helper.exe
+21284,Spotify.exe,0.79,0.19,0.51,0.00000000,0.0010,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+14176,CrossDeviceService.exe,0.74,0.31,0.48,0.00000000,0.0010,4h49m,C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26012.79.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+32580,Code.exe,0.72,0.07,0.47,0.00000000,0.0009,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+18884,PhoneExperienceHost.exe,0.61,0.23,0.40,0.00000000,0.0008,4h49m,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26012.101.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+32128,msedgewebview2.exe,0.56,0.11,0.36,0.00000000,0.0007,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+11604,WhatsApp.Root.exe,0.43,0.61,0.28,0.00000000,0.0006,4h43m,C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2611.102.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe
+13732,Code.exe,0.40,0.16,0.26,0.00000000,0.0005,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+30312,comet.exe,0.39,0.23,0.25,0.00000000,0.0005,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+35480,comet.exe,0.38,0.62,0.24,0.00000000,0.0005,2h38m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+34328,WindowsTerminal.exe,0.38,0.35,0.24,0.00000000,0.0005,1h1m,C:\Program Files\WindowsApps\Microsoft.WindowsTerminalPreview_1.25.923.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+10004,Code.exe,0.37,0.21,0.24,0.00000000,0.0005,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+9512,Code.exe,0.36,0.05,0.24,0.00000000,0.0005,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+20664,ctfmon.exe,0.34,0.10,0.22,0.00000000,0.0004,4h49m,C:\Windows\System32\ctfmon.exe
+21448,comet.exe,0.30,0.34,0.19,0.00000000,0.0004,1m49s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+13260,comet.exe,0.29,0.21,0.19,0.00000000,0.0004,4h45m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+13448,Copilot.exe,0.25,0.20,0.16,0.00000000,0.0003,4h45m,C:\Program Files\WindowsApps\Microsoft.Copilot_1.25121.84.0_x64__8wekyb3d8bbwe\Copilot.exe
+10024,svchost.exe,0.24,0.15,0.16,0.00000000,0.0003,4h49m,C:\Windows\System32\svchost.exe
+11424,msedgewebview2.exe,0.24,0.09,0.15,0.00000000,0.0003,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+30200,TextInputHost.exe,0.23,0.20,0.15,0.00000000,0.0003,4h49m,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+30444,Code.exe,0.21,0.30,0.14,0.00000000,0.0003,1h26m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+33708,sihost.exe,0.19,0.13,0.12,0.00000000,0.0002,4h49m,C:\Windows\System32\sihost.exe
+4904,Dell.UCA.Systray.exe,0.19,0.09,0.12,0.00000000,0.0002,4h47m,C:\Program Files\Dell\MyDell\Console\Dell.UCA.Systray.exe
+26444,comet.exe,0.18,0.19,0.12,0.00000000,0.0002,48s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+31588,Spotify.exe,0.18,0.14,0.12,0.00000000,0.0002,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+31720,WavesSvc64.exe,0.18,0.06,0.12,0.00000000,0.0002,4h48m,C:\Windows\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_c6cd4cf632788a8e\WavesSvc64.exe
+34792,msedgewebview2.exe,0.16,0.11,0.11,0.00000000,0.0002,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+1780,powershell.exe,0.16,0.15,0.11,0.00000000,0.0002,1h26m,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+17392,SDXHelper.exe,0.16,0.06,0.11,0.00000000,0.0002,4h34m,C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+3836,UIHost.exe,0.16,0.10,0.10,0.00000000,0.0002,4h49m,C:\Program Files\McAfee\WebAdvisor\uihost.exe
+34512,StartMenuExperienceHost.exe,0.16,0.24,0.10,0.00000000,0.0002,4h49m,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+21972,node.exe,0.14,0.18,0.09,0.00000000,0.0002,4h43m,C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe
+21272,Code.exe,0.12,0.14,0.08,0.00000000,0.0002,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+29636,ProtonDrive.exe,0.11,0.12,0.07,0.00000000,0.0001,4h46m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Proton\Drive\ProtonDrive.exe
+20712,ms-teams.exe,0.11,0.18,0.07,0.00000000,0.0001,4h46m,C:\Program Files\WindowsApps\MSTeams_26058.713.4529.5861_x64__8wekyb3d8bbwe\ms-teams.exe
+14364,comet.exe,0.10,0.24,0.06,0.00000000,0.0001,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+27624,Code.exe,0.09,0.11,0.06,0.00000000,0.0001,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+14048,VBoxSVC.exe,0.09,0.04,0.06,0.00000000,0.0001,4h10m,C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+18184,comet.exe,0.09,0.29,0.06,0.00000000,0.0001,4h45m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+25856,msedgewebview2.exe,0.09,0.04,0.06,0.00000000,0.0001,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+2376,msedgewebview2.exe,0.08,0.12,0.05,0.00000000,0.0001,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+30332,SearchHost.exe,0.08,0.37,0.05,0.00000000,0.0001,4h49m,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+9936,LockApp.exe,0.08,0.17,0.05,0.00000000,0.0001,2h16m,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+12280,msedgewebview2.exe,0.08,0.21,0.05,0.00000000,0.0001,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+23900,taskhostw.exe,0.07,0.07,0.04,0.00000000,0.0001,4h49m,C:\Windows\System32\taskhostw.exe
+6504,backgroundTaskHost.exe,0.07,0.22,0.04,0.00000000,0.0001,49m42s,C:\Windows\System32\backgroundTaskHost.exe
+10596,RuntimeBroker.exe,0.06,0.13,0.04,0.00000000,0.0001,2h16m,C:\Windows\System32\RuntimeBroker.exe
+16288,FileCoAuth.exe,0.06,0.12,0.04,0.00000000,0.0001,4h46m,C:\Program Files\Microsoft OneDrive\26.045.0308.0003\FileCoAuth.exe
+28348,msedgewebview2.exe,0.05,0.13,0.03,0.00000000,0.0001,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+13272,WidgetService.exe,0.05,0.08,0.03,0.00000000,0.0001,4h49m,C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+12452,comet.exe,0.05,0.23,0.03,0.00000000,0.0001,46m50s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+29816,Code.exe,0.05,0.01,0.03,0.00000000,0.0001,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+24324,WidgetBoard.exe,0.04,0.13,0.03,0.00000000,0.0001,4h49m,C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.1202.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe
+31728,svchost.exe,0.04,0.14,0.03,0.00000000,0.0001,4h49m,C:\Windows\System32\svchost.exe
+22524,RuntimeBroker.exe,0.04,0.13,0.03,0.00000000,0.0001,49m40s,C:\Windows\System32\RuntimeBroker.exe
+24748,Spotify.exe,0.04,0.02,0.03,0.00000000,0.0001,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+25620,comet.exe,0.04,0.10,0.03,0.00000000,0.0001,2h43m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+33736,msedgewebview2.exe,0.04,0.30,0.03,0.00000000,0.0001,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+28700,SpotifyLauncher.exe,0.04,0.08,0.03,0.00000000,0.0001,4h44m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\SpotifyLauncher.exe
+26760,comet.exe,0.04,0.08,0.02,0.00000000,0.0000,3h45m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+30136,svchost.exe,0.04,0.08,0.02,0.00000000,0.0000,4h49m,C:\Windows\System32\svchost.exe
+4600,MicrosoftStartFeedProvider.exe,0.03,0.15,0.02,0.00000000,0.0000,4h49m,C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.241.0.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe
+31020,msedgewebview2.exe,0.03,0.12,0.02,0.00000000,0.0000,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+19052,RuntimeBroker.exe,0.03,0.14,0.02,0.00000000,0.0000,4h49m,C:\Windows\System32\RuntimeBroker.exe
+34244,ShellExperienceHost.exe,0.03,0.24,0.02,0.00000000,0.0000,4h37m,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+28528,smartscreen.exe,0.03,0.08,0.02,0.00000000,0.0000,1m49s,C:\Windows\System32\smartscreen.exe
+28164,comet.exe,0.03,0.36,0.02,0.00000000,0.0000,31m0s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+10736,comet.exe,0.02,0.05,0.02,0.00000000,0.0000,4h36m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+15628,Code.exe,0.02,0.17,0.01,0.00000000,0.0000,1h21m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+14468,mc-fw-host.exe,0.02,0.06,0.01,0.00000000,0.0000,4h49m,C:\Program Files\McAfee\wps\1.37.173.1\mc-fw-host.exe
+34576,backgroundTaskHost.exe,0.02,0.06,0.01,0.00000000,0.0000,16m8s,C:\Windows\System32\backgroundTaskHost.exe
+30916,Code.exe,0.02,0.17,0.01,0.00000000,0.0000,1h21m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+27728,comet.exe,0.01,0.05,0.01,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+35300,OpenConsole.exe,0.01,0.04,0.01,0.00000000,0.0000,1h1m,C:\Program Files\WindowsApps\Microsoft.WindowsTerminalPreview_1.25.923.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+9528,Code.exe,0.01,0.02,0.01,0.00000000,0.0000,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+33892,Code.exe,0.01,0.02,0.01,0.00000000,0.0000,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+24796,Spotify.exe,0.01,0.03,0.01,0.00000000,0.0000,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+25708,SpotifyWidgetProvider.exe,0.01,0.06,0.01,0.00000000,0.0000,3h34m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\SpotifyWidgetProvider.exe
+21964,comet.exe,0.01,0.15,0.01,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+4404,powershell.exe,0.01,0.03,0.01,0.00000000,0.0000,4h19m,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+18516,jucheck.exe,0.01,0.02,0.01,0.00000000,0.0000,4h37m,C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+34688,CrossDeviceResume.exe,0.01,0.04,0.01,0.00000000,0.0000,4h49m,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+33260,msedgewebview2.exe,0.01,0.04,0.01,0.00000000,0.0000,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+18308,comet.exe,0.01,0.26,0.01,0.00000000,0.0000,42m2s,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+11744,Code.exe,0.01,0.03,0.01,0.00000000,0.0000,4h48m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+28736,svchost.exe,0.01,0.05,0.01,0.00000000,0.0000,4h44m,C:\Windows\System32\svchost.exe
+11496,AppActions.exe,0.01,0.04,0.01,0.00000000,0.0000,4h42m,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+13628,RuntimeBroker.exe,0.01,0.10,0.01,0.00000000,0.0000,4h37m,C:\Windows\System32\RuntimeBroker.exe
+25260,ApplicationFrameHost.exe,0.01,0.11,0.01,0.00000000,0.0000,4h26m,C:\Windows\System32\ApplicationFrameHost.exe
+24360,mc-extn-browserhost.exe,0.01,0.03,0.01,0.00000000,0.0000,4h45m,C:\Program Files\McAfee\wps\1.37.173.1\extnhost\mc-extn-browserhost.exe
+25056,taskhostw.exe,0.01,0.04,0.00,0.00000000,0.0000,4h10m,C:\Windows\System32\taskhostw.exe
+29368,comet.exe,0.01,0.04,0.00,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+25576,comet.exe,0.01,0.03,0.00,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+25140,msedgewebview2.exe,0.01,0.02,0.00,0.00000000,0.0000,4h39m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+35700,node,0.01,0.01,0.00,0.00000000,0.0000,4h19m,C:\Program Files\nodejs\node.exe
+10140,msedgewebview2.exe,0.01,0.02,0.00,0.00000000,0.0000,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+8332,ShellHost.exe,0.00,0.04,0.00,0.00000000,0.0000,2h43m,C:\Windows\System32\ShellHost.exe
+31360,dllhost.exe,0.00,0.02,0.00,0.00000000,0.0000,4h42m,C:\Windows\System32\dllhost.exe
+10676,comet.exe,0.00,0.02,0.00,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Perplexity\Comet\Application\comet.exe
+16036,backgroundTaskHost.exe,0.00,0.00,0.00,0.00000000,0.0000,2h42m,C:\Windows\System32\backgroundTaskHost.exe
+9236,BrowserHost.exe,0.00,0.02,0.00,0.00000000,0.0000,4h45m,C:\Program Files\McAfee\WebAdvisor\browserhost.exe
+20716,msedgewebview2.exe,0.00,0.01,0.00,0.00000000,0.0000,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+9008,msedgewebview2.exe,0.00,0.01,0.00,0.00000000,0.0000,4h43m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+14064,RuntimeBroker.exe,0.00,0.01,0.00,0.00000000,0.0000,2h43m,C:\Windows\System32\RuntimeBroker.exe
+15728,AdobeIPCBroker.exe,0.00,0.02,0.00,0.00000000,0.0000,4h43m,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe
+30460,conhost.exe,0.00,0.01,0.00,0.00000000,0.0000,4h45m,C:\Windows\System32\conhost.exe
+30656,conhost.exe,0.00,0.01,0.00,0.00000000,0.0000,4h45m,C:\Windows\System32\conhost.exe
+13248,cmd.exe,0.00,0.02,0.00,0.00000000,0.0000,1h1m,C:\Windows\System32\cmd.exe
+9928,svchost.exe,0.00,0.04,0.00,0.00000000,0.0000,4h49m,C:\Windows\System32\svchost.exe
+13784,msedgewebview2.exe,0.00,0.04,0.00,0.00000000,0.0000,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+27424,node.exe,0.00,0.01,0.00,0.00000000,0.0000,4h19m,C:\Program Files\nodejs\node.exe
+14348,jusched.exe,0.00,0.01,0.00,0.00000000,0.0000,4h42m,C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+17672,backgroundTaskHost.exe,0.00,0.02,0.00,0.00000000,0.0000,2h43m,C:\Windows\System32\backgroundTaskHost.exe
+24072,crashpad_handler.exe,0.00,0.01,0.00,0.00000000,0.0000,3h34m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\crashpad_handler.exe
+12492,svchost.exe,0.00,0.02,0.00,0.00000000,0.0000,4h47m,C:\Windows\System32\svchost.exe
+1244,60eaff78-4bdd-042d-2e72-669728efd737-suplib-2ndchild,0.00,0.00,0.00,0.00000000,0.0000,3h44m,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+35804,Spotify.exe,0.00,0.01,0.00,0.00000000,0.0000,2h43m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\Spotify.exe
+23256,SecurityHealthSystray.exe,0.00,0.02,0.00,0.00000000,0.0000,4h48m,C:\Windows\System32\SecurityHealthSystray.exe
+4948,RuntimeBroker.exe,0.00,0.02,0.00,0.00000000,0.0000,4h44m,C:\Windows\System32\RuntimeBroker.exe
+34812,OpenConsole.exe,0.00,0.03,0.00,0.00000000,0.0000,1h26m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\e7fb5e96c0\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+27000,Code.exe,0.00,0.02,0.00,0.00000000,0.0000,4h49m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\Code.exe
+30356,msedgewebview2.exe,0.00,0.01,0.00,0.00000000,0.0000,4h46m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+724,DllHost.exe,0.00,0.02,0.00,0.00000000,0.0000,4h34m,C:\Windows\System32\dllhost.exe
+34216,VirtualBoxVM.exe,0.00,0.00,0.00,0.00000000,0.0000,3h44m,C:\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe
+10248,RuntimeBroker.exe,0.00,0.01,0.00,0.00000000,0.0000,4h43m,C:\Windows\System32\RuntimeBroker.exe
+636,RuntimeBroker.exe,0.00,0.01,0.00,0.00000000,0.0000,4h46m,C:\Windows\System32\RuntimeBroker.exe
+2056,svchost.exe,0.00,0.01,0.00,0.00000000,0.0000,4h49m,C:\Windows\System32\svchost.exe
+29144,RuntimeBroker.exe,0.00,0.01,0.00,0.00000000,0.0000,4h49m,C:\Windows\System32\RuntimeBroker.exe
+32396,ONENOTEM.EXE,0.00,0.01,0.00,0.00000000,0.0000,4h43m,C:\Program Files\Microsoft Office\root\Office16\ONENOTEM.EXE
+12972,msedgewebview2.exe,0.00,0.01,0.00,0.00000000,0.0000,4h49m,C:\Program Files (x86)\Microsoft\EdgeWebView\Application\146.0.3856.97\msedgewebview2.exe
+26052,crashpad_handler.exe,0.00,0.01,0.00,0.00000000,0.0000,4h44m,C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.286.502.0_x64__zpdnekdrzrea0\crashpad_handler.exe
+11068,svchost.exe,0.00,0.03,0.00,0.00000000,0.0000,4h26m,C:\Windows\System32\svchost.exe
+20992,OpenConsole.exe,0.00,0.01,0.00,0.00000000,0.0000,4h19m,C:\Users\KSHAMA JAYCHAND\AppData\Local\Programs\Microsoft VS Code\e7fb5e96c0\resources\app\node_modules\node-pty\build\Release\conpty\OpenConsole.exe
+20684,UserOOBEBroker.exe,0.00,0.02,0.00,0.00000000,0.0000,4h26m,C:\Windows\System32\oobe\UserOOBEBroker.exe
+5580,conhost.exe,0.00,0.01,0.00,0.00000000,0.0000,4h43m,C:\Windows\System32\conhost.exe
+19156,cmd.exe,0.00,0.01,0.00,0.00000000,0.0000,4h19m,C:\Windows\System32\cmd.exe
+1804,CCXProcess.exe,0.00,0.00,0.00,0.00000000,0.0000,4h43m,C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe
+7752,cmd.exe,0.00,0.00,0.00,0.00000000,0.0000,4h45m,C:\Windows\System32\cmd.exe
+13492,cmd.exe,0.00,0.00,0.00,0.00000000,0.0000,4h45m,C:\Windows\System32\cmd.exe
+4,System,0.00,0.00,0.00,0.00000000,0.0000,,
+0,System Idle Process,0.00,0.00,0.00,0.00000000,0.0000,,
+18328,conhost.exe,0.00,0.04,0.00,0.00000000,0.0000,7s,C:\Windows\System32\conhost.exe

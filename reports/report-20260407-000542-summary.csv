@@ -1,0 +1,16 @@
+generated_at,2026-04-07T00:05:42+05:30
+duration,10s
+interval,1s
+repo_root,
+total_carbon_kg,0.00000047
+total_carbon_mg,0.473
+cpu_model,12th Gen Intel(R) Core(TM) i5-1235U
+cpu_cores,10
+cpu_usage_percent,35.07
+memory_usage_percent,85.00
+memory_used,13.4 GB
+memory_total,15.7 GB
+platform,Microsoft Windows 11 Home Single Language
+uptime,50h45m
+cpu_tdp_watts,65.00
+emission_factor,2e-10
