@@ -29,4 +29,11 @@ jobs:
         run: go test ./...
 
       - name: Build
-        run: go build ./...
+        run: go build -o carbonqt
+
+      - name: Upload binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: carbonqt-binary
+          path: carbonqt
+
