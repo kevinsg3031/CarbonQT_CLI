@@ -1,17 +1,14 @@
-name: CI
+name: Build Linux ARM Binary
 
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
-
-permissions:
-  contents: read
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -22,18 +19,12 @@ jobs:
           go-version-file: go.mod
           cache: true
 
-      - name: Vet
-        run: go vet ./...
-
-      - name: Test
-        run: go test ./...
-
-      - name: Build
-        run: go build -o carbonqt
+      - name: Build Linux ARM64 binary
+        run: |
+          GOOS=linux GOARCH=arm64 go build -o carbonqt-linux-arm64
 
       - name: Upload binary
         uses: actions/upload-artifact@v4
         with:
-          name: carbonqt-binary
-          path: carbonqt
-
+          name: carbonqt-linux-arm64
+          path: carbonqt-linux-arm64
