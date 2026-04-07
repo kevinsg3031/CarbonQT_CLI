@@ -1,4 +1,4 @@
-name: Build Linux ARM Binary
+name: Build CarbonQT CLI (ARM64)
 
 on:
   push:
@@ -9,8 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        goos: [linux, windows, darwin]
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Go
@@ -19,12 +23,16 @@ jobs:
           go-version-file: go.mod
           cache: true
 
-      - name: Build Linux ARM64 binary
+      - name: Build binaries (ARM64)
         run: |
-          GOOS=linux GOARCH=arm64 go build -o carbonqt-linux-arm64
+          EXT=""
+          if [ "${{ matrix.goos }}" = "windows" ]; then EXT=".exe"; fi
 
-      - name: Upload binary
+          GOOS=${{ matrix.goos }} GOARCH=arm64 \
+          go build -o carbonqtapp-${{ matrix.goos }}-arm64$EXT
+
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: carbonqt-linux-arm64
-          path: carbonqt-linux-arm64
+          name: carbonqtapp-${{ matrix.goos }}-arm64
+          path: carbonqtapp-${{ matrix.goos }}-arm64*
